@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ivymagoo
-- 👀 I’m interested in photography and I'm an audiophile 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in: photography and music
+- 🌱 I’m currently learning: everything 
+- 💞️ I’m looking to collaborate on simple things
+- 📫 How to reach me: Ivymagoo@proton.me
+- 😄 Pronouns: no preference 
+- ⚡ Fun fact: sorry I'm kinda boring!
 
 <!---
 Ivymagoo/Ivymagoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
